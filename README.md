@@ -43,4 +43,9 @@ streamlit run streamlit_app.py
 ### Developer
 **Tanisha**
 
+**Blockchain Based AI Model Duplichecker**
+
 https://blockchainbasedaimodelduplichecker-ejuncemruxskxgcaodpqra.streamlit.app
+
+**Check Transaction Block**
+https://sepolia.etherscan.io/
